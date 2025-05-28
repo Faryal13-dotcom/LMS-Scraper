@@ -1,0 +1,6 @@
+Once you have completed the activities associated with Topic 03, prepare some answers to these questions:
+
+1) When creating an online order form for customers to use, should the customer first be asked to enter their personal details or the details of the item they wish to order? Why?
+2) Discuss the business implications, both positive and negative, of allowing an external organisation such as a supplier to directly access the information systems in an organisation.
+3) Summarising data is one approach to adding value to data. Give an example of when summarising data could add value. Explain how IT would support that process. 
+4) Discuss, using examples as appropriate, the benefits and problems relating to the ability of access information remotely.
